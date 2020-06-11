@@ -1,2 +1,1 @@
-# entograph
-Graphing tool for insect population data
+Graphing tool for insect population data using Python libraries.
